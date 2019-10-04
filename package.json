@@ -74,7 +74,7 @@
     "@babel/plugin-transform-flow-strip-types": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "@types/node": "^10.12.18",
+    "@types/node": "^12.7.11",
     "@types/webpack": "^4.4.22",
     "acorn": "^5.2.1",
     "babel-eslint": "^10.0.1",
