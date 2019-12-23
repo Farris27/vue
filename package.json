@@ -80,7 +80,7 @@
     "babel-eslint": "^10.0.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-loader": "^8.0.4",
-    "babel-plugin-istanbul": "^5.1.0",
+    "babel-plugin-istanbul": "^6.0.0",
     "babel-plugin-transform-vue-jsx": "^4.0.1",
     "babel-preset-flow-vue": "^1.0.0",
     "buble": "^0.19.3",
